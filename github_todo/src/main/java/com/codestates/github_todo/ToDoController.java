@@ -8,6 +8,6 @@ public class ToDoController {
 
     @GetMapping("/")
     public String toDoApplication() {
-        return "To-do Application!";
+        return "To-do Application!"; // 화면 출력
     }
 }
