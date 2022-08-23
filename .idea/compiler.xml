@@ -10,5 +10,9 @@
         <module name="github_todo.github_todo.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="github_todo.github_todo.main~1" target="11" />
+      <module name="github_todo.github_todo.test~1" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
